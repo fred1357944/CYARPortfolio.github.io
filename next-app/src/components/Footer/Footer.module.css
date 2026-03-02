@@ -1,0 +1,132 @@
+.footer {
+    border-top: 1px solid var(--border);
+    padding: 72px 0 40px;
+    margin-top: auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 48px;
+    margin-bottom: 56px;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+}
+
+.sub {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 12px;
+}
+
+.email a {
+    color: var(--accent);
+    font-size: 0.875rem;
+    transition: var(--transition);
+}
+
+.email a:hover {
+    opacity: 0.8;
+}
+
+.colTitle {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+}
+
+.col ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footerLink {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    transition: var(--transition);
+}
+
+.footerLink:hover {
+    color: var(--text-primary);
+}
+
+.info {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+}
+
+.socials {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.socialLink {
+    display: inline-block;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    transition: var(--transition);
+}
+
+.socialLink:hover {
+    color: var(--accent);
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 28px;
+    border-top: 1px solid var(--border);
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.copy {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.sponsors {
+    display: flex;
+    gap: 20px;
+}
+
+.sponsorLink {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    transition: var(--transition);
+}
+
+.sponsorLink:hover {
+    color: var(--text-secondary);
+}
+
+@media (max-width: 900px) {
+    .grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 560px) {
+    .grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+
+    .bottom {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

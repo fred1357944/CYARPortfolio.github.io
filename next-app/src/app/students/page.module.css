@@ -1,0 +1,31 @@
+.page {
+    padding-top: calc(var(--nav-height) + 64px);
+    padding-bottom: 96px;
+}
+
+.header {
+    margin-bottom: 56px;
+    max-width: 600px;
+}
+
+.label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-bottom: 16px;
+}
+
+.sub {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
