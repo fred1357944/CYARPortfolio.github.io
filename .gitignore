@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.env.local
+out/
+CYARPortfolio.github.io-main/
+*.zip

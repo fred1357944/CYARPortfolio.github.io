@@ -1,0 +1,116 @@
+.page {
+    padding-top: calc(var(--nav-height) + 64px);
+    padding-bottom: 96px;
+}
+
+.header {
+    margin-bottom: 56px;
+}
+
+.label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+}
+
+.sub {
+    font-size: 1rem;
+    color: var(--text-secondary);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 28px;
+}
+
+.productCard {
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.productCard:hover {
+    border-color: var(--border-hover);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+.productImgWrap {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    background: var(--surface);
+}
+
+.productImg {
+    object-fit: cover;
+}
+
+.productBody {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.productTitle {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.productDesc {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    white-space: pre-wrap;
+    flex: 1;
+}
+
+.productFooter {
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+}
+
+.price {
+    font-size: 1.1rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.thumbs {
+    display: flex;
+    gap: 8px;
+}
+
+.thumb {
+    position: relative;
+    width: 64px;
+    height: 50px;
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.thumb:hover {
+    border-color: var(--accent);
+}
+
+.thumbImg {
+    object-fit: cover;
+}

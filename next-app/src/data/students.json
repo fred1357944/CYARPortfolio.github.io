@@ -1,0 +1,1085 @@
+[
+  {
+    "id": 1,
+    "name": "徐至廷",
+    "advisor": "王菁吟",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "11112365nuvfyfy8",
+    "description": "ghctsrescvydvtyf6rd6gvb",
+    "image": "/uploads/students/徐至廷/Card.jpg",
+    "heroImage": "/uploads/students/徐至廷/00.jpg",
+    "images": [
+      "/uploads/students/徐至廷/01.jpg",
+      "/uploads/students/徐至廷/02.jpg",
+      "/uploads/students/徐至廷/03.jpg",
+      "/uploads/students/徐至廷/04.jpg"
+    ],
+    "profileImage": "/uploads/students/徐至廷/personal.jpg"
+  },
+  {
+    "id": 2,
+    "name": "林宏峻",
+    "advisor": "王菁吟",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林宏峻/Card.jpg",
+    "heroImage": "/uploads/students/林宏峻/00.jpg",
+    "images": [
+      "/uploads/students/林宏峻/01.jpg",
+      "/uploads/students/林宏峻/02.jpg",
+      "/uploads/students/林宏峻/03.jpg",
+      "/uploads/students/林宏峻/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林宏峻/personal.jpg"
+  },
+  {
+    "id": 3,
+    "name": "李星蓉",
+    "advisor": "王菁吟",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/李星蓉/Card.jpg",
+    "heroImage": "/uploads/students/李星蓉/00.jpg",
+    "images": [
+      "/uploads/students/李星蓉/01.jpg",
+      "/uploads/students/李星蓉/02.jpg",
+      "/uploads/students/李星蓉/03.jpg",
+      "/uploads/students/李星蓉/04.jpg"
+    ],
+    "profileImage": "/uploads/students/李星蓉/personal.jpg"
+  },
+  {
+    "id": 4,
+    "name": "李維翔",
+    "advisor": "王菁吟",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "gerhgierhgguheaughea",
+    "description": "幫您檢查了截圖，這種排版跑版的問題通常是因為字串太長（例如無空白的連續英文或亂數文字），導致瀏覽器不知道在哪裡斷行。\n\n我已經在學生頁面的「作品說明 (Statement)」區塊加入了 自動斷行 (break-words) 的設定。\n\n現在即使遇到很長的連續文字，它也會乖乖在手機邊緣自動換行，不會再撐爆版面了。請您重新整理頁面試試看",
+    "image": "/uploads/students/李維翔/Card.jpg",
+    "heroImage": "/uploads/students/李維翔/00.jpg",
+    "images": [
+      "/uploads/students/李維翔/01.jpg",
+      "/uploads/students/李維翔/02.jpg",
+      "/uploads/students/李維翔/03.jpg",
+      "/uploads/students/李維翔/04.jpg"
+    ],
+    "profileImage": "/uploads/students/李維翔/personal.jpg"
+  },
+  {
+    "id": 5,
+    "name": "黃瓊誼",
+    "advisor": "余達",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/黃瓊誼/Card.jpg",
+    "heroImage": "/uploads/students/黃瓊誼/00.jpg",
+    "images": [
+      "/uploads/students/黃瓊誼/01.jpg",
+      "/uploads/students/黃瓊誼/02.jpg",
+      "/uploads/students/黃瓊誼/03.jpg",
+      "/uploads/students/黃瓊誼/04.jpg"
+    ],
+    "profileImage": "/uploads/students/黃瓊誼/personal.jpg"
+  },
+  {
+    "id": 6,
+    "name": "蕭秀如",
+    "advisor": "余達",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/蕭秀如/Card.jpg",
+    "heroImage": "/uploads/students/蕭秀如/00.jpg",
+    "images": [
+      "/uploads/students/蕭秀如/01.jpg",
+      "/uploads/students/蕭秀如/02.jpg",
+      "/uploads/students/蕭秀如/03.jpg",
+      "/uploads/students/蕭秀如/04.jpg"
+    ],
+    "profileImage": "/uploads/students/蕭秀如/personal.jpg"
+  },
+  {
+    "id": 7,
+    "name": "鍾晴",
+    "advisor": "余達",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/鍾晴/Card.jpg",
+    "heroImage": "/uploads/students/鍾晴/00.jpg",
+    "images": [
+      "/uploads/students/鍾晴/01.jpg",
+      "/uploads/students/鍾晴/02.jpg",
+      "/uploads/students/鍾晴/03.jpg",
+      "/uploads/students/鍾晴/04.jpg"
+    ],
+    "profileImage": "/uploads/students/鍾晴/personal.jpg"
+  },
+  {
+    "id": 8,
+    "name": "林怡妏",
+    "advisor": "余達",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林怡妏/Card.jpg",
+    "heroImage": "/uploads/students/林怡妏/00.jpg",
+    "images": [
+      "/uploads/students/林怡妏/01.jpg",
+      "/uploads/students/林怡妏/02.jpg",
+      "/uploads/students/林怡妏/03.jpg",
+      "/uploads/students/林怡妏/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林怡妏/personal.jpg"
+  },
+  {
+    "id": 9,
+    "name": "郭凌東",
+    "advisor": "吳政勳",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/郭凌東/Card.jpg",
+    "heroImage": "/uploads/students/郭凌東/00.jpg",
+    "images": [
+      "/uploads/students/郭凌東/01.jpg",
+      "/uploads/students/郭凌東/02.jpg",
+      "/uploads/students/郭凌東/03.jpg",
+      "/uploads/students/郭凌東/04.jpg"
+    ],
+    "profileImage": "/uploads/students/郭凌東/personal.jpg"
+  },
+  {
+    "id": 10,
+    "name": "卓芯妤",
+    "advisor": "吳政勳",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/卓芯妤/Card.jpg",
+    "heroImage": "/uploads/students/卓芯妤/00.jpg",
+    "images": [
+      "/uploads/students/卓芯妤/01.jpg",
+      "/uploads/students/卓芯妤/02.jpg",
+      "/uploads/students/卓芯妤/03.jpg",
+      "/uploads/students/卓芯妤/04.jpg"
+    ],
+    "profileImage": "/uploads/students/卓芯妤/personal.jpg"
+  },
+  {
+    "id": 11,
+    "name": "陳柏安",
+    "advisor": "汪煒傑",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/陳柏安/Card.jpg",
+    "heroImage": "/uploads/students/陳柏安/00.jpg",
+    "images": [
+      "/uploads/students/陳柏安/01.jpg",
+      "/uploads/students/陳柏安/02.jpg",
+      "/uploads/students/陳柏安/03.jpg",
+      "/uploads/students/陳柏安/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳柏安/personal.jpg"
+  },
+  {
+    "id": 12,
+    "name": "周祐祺",
+    "advisor": "汪煒傑",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/周祐祺/Card.jpg",
+    "heroImage": "/uploads/students/周祐祺/00.jpg",
+    "images": [
+      "/uploads/students/周祐祺/01.jpg",
+      "/uploads/students/周祐祺/02.jpg",
+      "/uploads/students/周祐祺/03.jpg",
+      "/uploads/students/周祐祺/04.jpg"
+    ],
+    "profileImage": "/uploads/students/周祐祺/personal.jpg"
+  },
+  {
+    "id": 13,
+    "name": "彭家怡",
+    "advisor": "汪煒傑",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/彭家怡/Card.jpg",
+    "heroImage": "/uploads/students/彭家怡/00.jpg",
+    "images": [
+      "/uploads/students/彭家怡/01.jpg",
+      "/uploads/students/彭家怡/02.jpg",
+      "/uploads/students/彭家怡/03.jpg",
+      "/uploads/students/彭家怡/04.jpg"
+    ],
+    "profileImage": "/uploads/students/彭家怡/personal.jpg"
+  },
+  {
+    "id": 14,
+    "name": "張雅欣",
+    "advisor": "初家怡",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/張雅欣/Card.jpg",
+    "heroImage": "/uploads/students/張雅欣/00.jpg",
+    "images": [
+      "/uploads/students/張雅欣/01.jpg",
+      "/uploads/students/張雅欣/02.jpg",
+      "/uploads/students/張雅欣/03.jpg",
+      "/uploads/students/張雅欣/04.jpg"
+    ],
+    "profileImage": "/uploads/students/張雅欣/personal.jpg"
+  },
+  {
+    "id": 15,
+    "name": "朱令楷",
+    "advisor": "初家怡",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/朱令楷/Card.jpg",
+    "heroImage": "/uploads/students/朱令楷/00.jpg",
+    "images": [
+      "/uploads/students/朱令楷/01.jpg",
+      "/uploads/students/朱令楷/02.jpg",
+      "/uploads/students/朱令楷/03.jpg",
+      "/uploads/students/朱令楷/04.jpg"
+    ],
+    "profileImage": "/uploads/students/朱令楷/personal.jpg"
+  },
+  {
+    "id": 16,
+    "name": "陳婉庭",
+    "advisor": "初家怡",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/陳婉庭/Card.jpg",
+    "heroImage": "/uploads/students/陳婉庭/00.jpg",
+    "images": [
+      "/uploads/students/陳婉庭/01.jpg",
+      "/uploads/students/陳婉庭/02.jpg",
+      "/uploads/students/陳婉庭/03.jpg",
+      "/uploads/students/陳婉庭/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳婉庭/personal.jpg"
+  },
+  {
+    "id": 17,
+    "name": "潘品妤",
+    "advisor": "林彥穎",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/潘品妤/Card.jpg",
+    "heroImage": "/uploads/students/潘品妤/00.jpg",
+    "images": [
+      "/uploads/students/潘品妤/01.jpg",
+      "/uploads/students/潘品妤/02.jpg",
+      "/uploads/students/潘品妤/03.jpg",
+      "/uploads/students/潘品妤/04.jpg"
+    ],
+    "profileImage": "/uploads/students/潘品妤/personal.jpg"
+  },
+  {
+    "id": 18,
+    "name": "沈佳誼",
+    "advisor": "林彥穎",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/沈佳誼/Card.jpg",
+    "heroImage": "/uploads/students/沈佳誼/00.jpg",
+    "images": [
+      "/uploads/students/沈佳誼/01.jpg",
+      "/uploads/students/沈佳誼/02.jpg",
+      "/uploads/students/沈佳誼/03.jpg",
+      "/uploads/students/沈佳誼/04.jpg"
+    ],
+    "profileImage": "/uploads/students/沈佳誼/personal.jpg"
+  },
+  {
+    "id": 19,
+    "name": "張詠媃",
+    "advisor": "禹連泉",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/張詠媃/Card.jpg",
+    "heroImage": "/uploads/students/張詠媃/00.jpg",
+    "images": [
+      "/uploads/students/張詠媃/01.jpg",
+      "/uploads/students/張詠媃/02.jpg",
+      "/uploads/students/張詠媃/03.jpg",
+      "/uploads/students/張詠媃/04.jpg"
+    ],
+    "profileImage": "/uploads/students/張詠媃/personal.jpg"
+  },
+  {
+    "id": 20,
+    "name": "林軒宇",
+    "advisor": "張全智",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林軒宇/Card.jpg",
+    "heroImage": "/uploads/students/林軒宇/00.jpg",
+    "images": [
+      "/uploads/students/林軒宇/01.jpg",
+      "/uploads/students/林軒宇/02.jpg",
+      "/uploads/students/林軒宇/03.jpg",
+      "/uploads/students/林軒宇/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林軒宇/personal.jpg"
+  },
+  {
+    "id": 21,
+    "name": "周昆弘",
+    "advisor": "張全智",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": "春眠不覺曉",
+    "description": "春眠不覺曉處處聞啼鳥",
+    "image": "/uploads/students/周昆弘/Card.jpg",
+    "heroImage": "/uploads/students/周昆弘/00.jpg",
+    "images": [
+      "/uploads/students/周昆弘/01.jpg",
+      "/uploads/students/周昆弘/02.jpg",
+      "/uploads/students/周昆弘/03.jpg",
+      "/uploads/students/周昆弘/04.jpg"
+    ],
+    "profileImage": "/uploads/students/周昆弘/personal.jpg"
+  },
+  {
+    "id": 22,
+    "name": "林筠淩",
+    "advisor": "張全智",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林筠淩/Card.jpg",
+    "heroImage": "/uploads/students/林筠淩/00.jpg",
+    "images": [
+      "/uploads/students/林筠淩/01.jpg",
+      "/uploads/students/林筠淩/02.jpg",
+      "/uploads/students/林筠淩/03.jpg",
+      "/uploads/students/林筠淩/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林筠淩/personal.jpg"
+  },
+  {
+    "id": 23,
+    "name": "王瑋承",
+    "advisor": "許志維",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/王瑋承/Card.jpg",
+    "heroImage": "/uploads/students/王瑋承/00.jpg",
+    "images": [
+      "/uploads/students/王瑋承/01.jpg",
+      "/uploads/students/王瑋承/02.jpg",
+      "/uploads/students/王瑋承/03.jpg",
+      "/uploads/students/王瑋承/04.jpg"
+    ],
+    "profileImage": "/uploads/students/王瑋承/personal.jpg"
+  },
+  {
+    "id": 24,
+    "name": "廖翊丞",
+    "advisor": "許志維",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/廖翊丞/Card.jpg",
+    "heroImage": "/uploads/students/廖翊丞/00.jpg",
+    "images": [
+      "/uploads/students/廖翊丞/01.jpg",
+      "/uploads/students/廖翊丞/02.jpg",
+      "/uploads/students/廖翊丞/03.jpg",
+      "/uploads/students/廖翊丞/04.jpg"
+    ],
+    "profileImage": "/uploads/students/廖翊丞/personal.jpg"
+  },
+  {
+    "id": 25,
+    "name": "常宗倫",
+    "advisor": "許志維",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/常宗倫/Card.jpg",
+    "heroImage": "/uploads/students/常宗倫/00.jpg",
+    "images": [
+      "/uploads/students/常宗倫/01.jpg",
+      "/uploads/students/常宗倫/02.jpg",
+      "/uploads/students/常宗倫/03.jpg",
+      "/uploads/students/常宗倫/04.jpg"
+    ],
+    "profileImage": "/uploads/students/常宗倫/personal.jpg"
+  },
+  {
+    "id": 26,
+    "name": "陳霈吉",
+    "advisor": "許志維",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/陳霈吉/Card.jpg",
+    "heroImage": "/uploads/students/陳霈吉/00.jpg",
+    "images": [
+      "/uploads/students/陳霈吉/01.jpg",
+      "/uploads/students/陳霈吉/02.jpg",
+      "/uploads/students/陳霈吉/03.jpg",
+      "/uploads/students/陳霈吉/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳霈吉/personal.jpg"
+  },
+  {
+    "id": 27,
+    "name": "王加惟",
+    "advisor": "郭聖荃",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/王加惟/Card.jpg",
+    "heroImage": "/uploads/students/王加惟/00.jpg",
+    "images": [
+      "/uploads/students/王加惟/01.jpg",
+      "/uploads/students/王加惟/02.jpg",
+      "/uploads/students/王加惟/03.jpg",
+      "/uploads/students/王加惟/04.jpg"
+    ],
+    "profileImage": "/uploads/students/王加惟/personal.jpg"
+  },
+  {
+    "id": 28,
+    "name": "陳廷睿",
+    "advisor": "郭聖荃",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/陳廷睿/Card.jpg",
+    "heroImage": "/uploads/students/陳廷睿/00.jpg",
+    "images": [
+      "/uploads/students/陳廷睿/01.jpg",
+      "/uploads/students/陳廷睿/02.jpg",
+      "/uploads/students/陳廷睿/03.jpg",
+      "/uploads/students/陳廷睿/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳廷睿/personal.jpg"
+  },
+  {
+    "id": 29,
+    "name": "林鑫佑",
+    "advisor": "郭聖荃",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林鑫佑/Card.jpg",
+    "heroImage": "/uploads/students/林鑫佑/00.jpg",
+    "images": [
+      "/uploads/students/林鑫佑/01.jpg",
+      "/uploads/students/林鑫佑/02.jpg",
+      "/uploads/students/林鑫佑/03.jpg",
+      "/uploads/students/林鑫佑/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林鑫佑/personal.jpg"
+  },
+  {
+    "id": 30,
+    "name": "莊巽榛",
+    "advisor": "陳宇進",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/莊巽榛/Card.jpg",
+    "heroImage": "/uploads/students/莊巽榛/00.jpg",
+    "images": [
+      "/uploads/students/莊巽榛/01.jpg",
+      "/uploads/students/莊巽榛/02.jpg",
+      "/uploads/students/莊巽榛/03.jpg",
+      "/uploads/students/莊巽榛/04.jpg"
+    ],
+    "profileImage": "/uploads/students/莊巽榛/personal.jpg"
+  },
+  {
+    "id": 31,
+    "name": "林承翰",
+    "advisor": "陳宇進",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": 1111,
+    "description": "",
+    "image": "/uploads/students/林承翰/Card.jpg",
+    "heroImage": "/uploads/students/林承翰/00.jpg",
+    "images": [
+      "/uploads/students/林承翰/01.jpg",
+      "/uploads/students/林承翰/02.jpg",
+      "/uploads/students/林承翰/03.jpg",
+      "/uploads/students/林承翰/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林承翰/personal.jpg"
+  },
+  {
+    "id": 32,
+    "name": "林家禾",
+    "advisor": "陳宇進",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/林家禾/Card.jpg",
+    "heroImage": "/uploads/students/林家禾/00.jpg",
+    "images": [
+      "/uploads/students/林家禾/01.jpg",
+      "/uploads/students/林家禾/02.jpg",
+      "/uploads/students/林家禾/03.jpg",
+      "/uploads/students/林家禾/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林家禾/personal.jpg"
+  },
+  {
+    "id": 33,
+    "name": "康瑋庭",
+    "advisor": "陳宣誠",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/康瑋庭/Card.jpg",
+    "heroImage": "/uploads/students/康瑋庭/00.jpg",
+    "images": [
+      "/uploads/students/康瑋庭/01.jpg",
+      "/uploads/students/康瑋庭/02.jpg",
+      "/uploads/students/康瑋庭/03.jpg",
+      "/uploads/students/康瑋庭/04.jpg"
+    ],
+    "profileImage": "/uploads/students/康瑋庭/personal.jpg"
+  },
+  {
+    "id": 34,
+    "name": "陳彥翰",
+    "advisor": "陳宣誠",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳彥翰/Card.jpg",
+    "heroImage": "/uploads/students/陳彥翰/00.jpg",
+    "images": [
+      "/uploads/students/陳彥翰/01.jpg",
+      "/uploads/students/陳彥翰/02.jpg",
+      "/uploads/students/陳彥翰/03.jpg",
+      "/uploads/students/陳彥翰/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳彥翰/personal.jpg"
+  },
+  {
+    "id": 35,
+    "name": "林哲謙",
+    "advisor": "曾光宗",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/林哲謙/Card.jpg",
+    "heroImage": "/uploads/students/林哲謙/00.jpg",
+    "images": [
+      "/uploads/students/林哲謙/01.jpg",
+      "/uploads/students/林哲謙/02.jpg",
+      "/uploads/students/林哲謙/03.jpg",
+      "/uploads/students/林哲謙/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林哲謙/personal.jpg"
+  },
+  {
+    "id": 36,
+    "name": "阮欣蕾",
+    "advisor": "曾光宗",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/阮欣蕾/Card.jpg",
+    "heroImage": "/uploads/students/阮欣蕾/00.jpg",
+    "images": [
+      "/uploads/students/阮欣蕾/01.jpg",
+      "/uploads/students/阮欣蕾/02.jpg",
+      "/uploads/students/阮欣蕾/03.jpg",
+      "/uploads/students/阮欣蕾/04.jpg"
+    ],
+    "profileImage": "/uploads/students/阮欣蕾/personal.jpg"
+  },
+  {
+    "id": 37,
+    "name": "程凡睿",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/程凡睿/Card.jpg",
+    "heroImage": "/uploads/students/程凡睿/00.jpg",
+    "images": [
+      "/uploads/students/程凡睿/01.jpg",
+      "/uploads/students/程凡睿/02.jpg",
+      "/uploads/students/程凡睿/03.jpg",
+      "/uploads/students/程凡睿/04.jpg"
+    ],
+    "profileImage": "/uploads/students/程凡睿/personal.jpg"
+  },
+  {
+    "id": 38,
+    "name": "曾晟峰",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/曾晟峰/Card.jpg",
+    "heroImage": "/uploads/students/曾晟峰/00.jpg",
+    "images": [
+      "/uploads/students/曾晟峰/01.jpg",
+      "/uploads/students/曾晟峰/02.jpg",
+      "/uploads/students/曾晟峰/03.jpg",
+      "/uploads/students/曾晟峰/04.jpg"
+    ],
+    "profileImage": "/uploads/students/曾晟峰/personal.jpg"
+  },
+  {
+    "id": 39,
+    "name": "陳龍",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳龍/Card.jpg",
+    "heroImage": "/uploads/students/陳龍/00.jpg",
+    "images": [
+      "/uploads/students/陳龍/01.jpg",
+      "/uploads/students/陳龍/02.jpg",
+      "/uploads/students/陳龍/03.jpg",
+      "/uploads/students/陳龍/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳龍/personal.jpg"
+  },
+  {
+    "id": 40,
+    "name": "林聖叡",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Theory",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/林聖叡/Card.jpg",
+    "heroImage": "/uploads/students/林聖叡/00.jpg",
+    "images": [
+      "/uploads/students/林聖叡/01.jpg",
+      "/uploads/students/林聖叡/02.jpg",
+      "/uploads/students/林聖叡/03.jpg",
+      "/uploads/students/林聖叡/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林聖叡/personal.jpg"
+  },
+  {
+    "id": 41,
+    "name": "曾美華",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/曾美華/Card.jpg",
+    "heroImage": "/uploads/students/曾美華/00.jpg",
+    "images": [
+      "/uploads/students/曾美華/01.jpg",
+      "/uploads/students/曾美華/02.jpg",
+      "/uploads/students/曾美華/03.jpg",
+      "/uploads/students/曾美華/04.jpg"
+    ],
+    "profileImage": "/uploads/students/曾美華/personal.jpg"
+  },
+  {
+    "id": 42,
+    "name": "羅子雅",
+    "advisor": "黃俊銘",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/羅子雅/Card.jpg",
+    "heroImage": "/uploads/students/羅子雅/00.jpg",
+    "images": [
+      "/uploads/students/羅子雅/01.jpg",
+      "/uploads/students/羅子雅/02.jpg",
+      "/uploads/students/羅子雅/03.jpg",
+      "/uploads/students/羅子雅/04.jpg"
+    ],
+    "profileImage": "/uploads/students/羅子雅/personal.jpg"
+  },
+  {
+    "id": 43,
+    "name": "黃睦程",
+    "advisor": "楊秋煜",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/黃睦程/Card.jpg",
+    "heroImage": "/uploads/students/黃睦程/00.jpg",
+    "images": [
+      "/uploads/students/黃睦程/01.jpg",
+      "/uploads/students/黃睦程/02.jpg",
+      "/uploads/students/黃睦程/03.jpg",
+      "/uploads/students/黃睦程/04.jpg"
+    ],
+    "profileImage": "/uploads/students/黃睦程/personal.jpg"
+  },
+  {
+    "id": 44,
+    "name": "陳姿文",
+    "advisor": "楊秋煜",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳姿文/Card.jpg",
+    "heroImage": "/uploads/students/陳姿文/00.jpg",
+    "images": [
+      "/uploads/students/陳姿文/01.jpg",
+      "/uploads/students/陳姿文/02.jpg",
+      "/uploads/students/陳姿文/03.jpg",
+      "/uploads/students/陳姿文/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳姿文/personal.jpg"
+  },
+  {
+    "id": 45,
+    "name": "蔡少薰",
+    "advisor": "楊秋煜",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/蔡少薰/Card.jpg",
+    "heroImage": "/uploads/students/蔡少薰/00.jpg",
+    "images": [
+      "/uploads/students/蔡少薰/01.jpg",
+      "/uploads/students/蔡少薰/02.jpg",
+      "/uploads/students/蔡少薰/03.jpg",
+      "/uploads/students/蔡少薰/04.jpg"
+    ],
+    "profileImage": "/uploads/students/蔡少薰/personal.jpg"
+  },
+  {
+    "id": 46,
+    "name": "林奕萱",
+    "advisor": "楊紹凱",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/林奕萱/Card.jpg",
+    "heroImage": "/uploads/students/林奕萱/00.jpg",
+    "images": [
+      "/uploads/students/林奕萱/01.jpg",
+      "/uploads/students/林奕萱/02.jpg",
+      "/uploads/students/林奕萱/03.jpg",
+      "/uploads/students/林奕萱/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林奕萱/personal.jpg"
+  },
+  {
+    "id": 47,
+    "name": "朱姝亞",
+    "advisor": "楊紹凱",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/朱姝亞/Card.jpg",
+    "heroImage": "/uploads/students/朱姝亞/00.jpg",
+    "images": [
+      "/uploads/students/朱姝亞/01.jpg",
+      "/uploads/students/朱姝亞/02.jpg",
+      "/uploads/students/朱姝亞/03.jpg",
+      "/uploads/students/朱姝亞/04.jpg"
+    ],
+    "profileImage": "/uploads/students/朱姝亞/personal.jpg"
+  },
+  {
+    "id": 48,
+    "name": "劉兆軒",
+    "advisor": "楊紹凱",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/劉兆軒/Card.jpg",
+    "heroImage": "/uploads/students/劉兆軒/00.jpg",
+    "images": [
+      "/uploads/students/劉兆軒/01.jpg",
+      "/uploads/students/劉兆軒/02.jpg",
+      "/uploads/students/劉兆軒/03.jpg",
+      "/uploads/students/劉兆軒/04.jpg"
+    ],
+    "profileImage": "/uploads/students/劉兆軒/personal.jpg"
+  },
+  {
+    "id": 49,
+    "name": "陳明駿",
+    "advisor": "盧建銘",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳明駿/Card.jpg",
+    "heroImage": "/uploads/students/陳明駿/00.jpg",
+    "images": [
+      "/uploads/students/陳明駿/01.jpg",
+      "/uploads/students/陳明駿/02.jpg",
+      "/uploads/students/陳明駿/03.jpg",
+      "/uploads/students/陳明駿/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳明駿/personal.jpg"
+  },
+  {
+    "id": 50,
+    "name": "陳宥瑋",
+    "advisor": "盧建銘",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳宥瑋/Card.jpg",
+    "heroImage": "/uploads/students/陳宥瑋/00.jpg",
+    "images": [
+      "/uploads/students/陳宥瑋/01.jpg",
+      "/uploads/students/陳宥瑋/02.jpg",
+      "/uploads/students/陳宥瑋/03.jpg",
+      "/uploads/students/陳宥瑋/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳宥瑋/personal.jpg"
+  },
+  {
+    "id": 51,
+    "name": "黃弘耀",
+    "advisor": "盧建銘",
+    "title": "Test title",
+    "category": "Landscape",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/黃弘耀/Card.jpg",
+    "heroImage": "/uploads/students/黃弘耀/00.jpg",
+    "images": [
+      "/uploads/students/黃弘耀/01.jpg",
+      "/uploads/students/黃弘耀/02.jpg",
+      "/uploads/students/黃弘耀/03.jpg",
+      "/uploads/students/黃弘耀/04.jpg"
+    ],
+    "profileImage": "/uploads/students/黃弘耀/personal.jpg"
+  },
+  {
+    "id": 52,
+    "name": "連彥芃",
+    "advisor": "賴弘翌",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/連彥芃/Card.jpg",
+    "heroImage": "/uploads/students/連彥芃/00.jpg",
+    "images": [
+      "/uploads/students/連彥芃/01.jpg",
+      "/uploads/students/連彥芃/02.jpg",
+      "/uploads/students/連彥芃/03.jpg",
+      "/uploads/students/連彥芃/04.jpg"
+    ],
+    "profileImage": "/uploads/students/連彥芃/personal.jpg"
+  },
+  {
+    "id": 53,
+    "name": "邱冠穎",
+    "advisor": "賴弘翌",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/邱冠穎/Card.jpg",
+    "heroImage": "/uploads/students/邱冠穎/00.jpg",
+    "images": [
+      "/uploads/students/邱冠穎/01.jpg",
+      "/uploads/students/邱冠穎/02.jpg",
+      "/uploads/students/邱冠穎/03.jpg",
+      "/uploads/students/邱冠穎/04.jpg"
+    ],
+    "profileImage": "/uploads/students/邱冠穎/personal.jpg"
+  },
+  {
+    "id": 54,
+    "name": "陳裕允",
+    "advisor": "賴弘翌",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/陳裕允/Card.jpg",
+    "heroImage": "/uploads/students/陳裕允/00.jpg",
+    "images": [
+      "/uploads/students/陳裕允/01.jpg",
+      "/uploads/students/陳裕允/02.jpg",
+      "/uploads/students/陳裕允/03.jpg",
+      "/uploads/students/陳裕允/04.jpg"
+    ],
+    "profileImage": "/uploads/students/陳裕允/personal.jpg"
+  },
+  {
+    "id": 55,
+    "name": "曾郁淇",
+    "advisor": "賴弘翌",
+    "title": "Test title",
+    "category": "Urban Design",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/曾郁淇/Card.jpg",
+    "heroImage": "/uploads/students/曾郁淇/00.jpg",
+    "images": [
+      "/uploads/students/曾郁淇/01.jpg",
+      "/uploads/students/曾郁淇/02.jpg",
+      "/uploads/students/曾郁淇/03.jpg",
+      "/uploads/students/曾郁淇/04.jpg"
+    ],
+    "profileImage": "/uploads/students/曾郁淇/personal.jpg"
+  },
+  {
+    "id": 56,
+    "name": "賴菁菁",
+    "advisor": "蘇弘",
+    "title": "Test title",
+    "category": "Tectonics",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/賴菁菁/Card.jpg",
+    "heroImage": "/uploads/students/賴菁菁/00.jpg",
+    "images": [
+      "/uploads/students/賴菁菁/01.jpg",
+      "/uploads/students/賴菁菁/02.jpg",
+      "/uploads/students/賴菁菁/03.jpg",
+      "/uploads/students/賴菁菁/04.jpg"
+    ],
+    "profileImage": "/uploads/students/賴菁菁/personal.jpg"
+  },
+  {
+    "id": 57,
+    "name": "林庭誼",
+    "advisor": "蘇弘",
+    "title": "Test title",
+    "category": "Housing",
+    "year": "2026",
+    "shortDesc": "",
+    "description": "",
+    "image": "/uploads/students/林庭誼/Card.jpg",
+    "heroImage": "/uploads/students/林庭誼/00.jpg",
+    "images": [
+      "/uploads/students/林庭誼/01.jpg",
+      "/uploads/students/林庭誼/02.jpg",
+      "/uploads/students/林庭誼/03.jpg",
+      "/uploads/students/林庭誼/04.jpg"
+    ],
+    "profileImage": "/uploads/students/林庭誼/personal.jpg"
+  }
+]

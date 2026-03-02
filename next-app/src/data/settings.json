@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "VERSE",
+    "subtitle": "CYCU Department of Architecture",
+    "deptUrl": "https://arch.cycu.edu.tw/",
+    "image": "/kv.jpg",
+    "logoSize": "150",
+    "logoImage": "\\111.png"
+  },
+  "about": {
+    "title": "VERSE(US)",
+    "content": "𝐕𝐄𝐑𝐒𝐄(𝐔𝐒)\n\n ✦✦✧ \n\n「IF某物(us)=不斷的融合（verse），那麼它最終會逐漸累積、進步並趨向完整(universe)。」\n\n✦✧\n\n⟢對設計而言，不同概念的拉扯經由對話、妥協與結合，逐漸形塑出完整的作品；\n\n⟢對個人而言，思想與喜好的衝突在時間中沉澱，最終構築出獨特而鮮明的個人宇宙；\n\n⟢對群體而言，同學間的差異在合作與記憶中交織，累積成共享的62宇宙。\n\n【關於我們】\n我們是中原大學建築系第62屆畢業生。\n\n建築不只是空間的堆砌，更是對生活的觀察與回應。在中原建築的五年時光裡，我們不斷探索人、環境與社會的關係。透過無數個熬夜趕圖的夜晚，與一次次評圖的挑戰，我們逐漸構築出屬於自己的設計語彙。\n\n第62屆畢業展覽匯集了我們對未來的想像與對現況的反思。每一件作品都承載著創作者的靈魂，試圖在混亂的世界中尋找秩序，在平凡的日常中創造驚奇。\n\n誠摯邀請您前來參與這場思想的對話，見證我們五年來的成長與蛻變。",
+    "image": "/kv.jpg",
+    "date": "2026/06/06 (六) - 2026/06/21 (日)",
+    "location": "中原文創園區 (Chung Yuan Cultural and Creative Park)",
+    "locationUrl": "https://cycc.org.tw",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=中原文創園區+Chung+Yuan+Cultural+and+Creative+Park",
+    "hours": "每日 10:00 - 18:00 (免費參觀) / 週一休館",
+    "email": "cyar62nd@gmail.com"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/2026CYAR62st",
+    "instagram": "https://www.instagram.com/cyar_62nd_2026/"
+  },
+  "sponsors": [
+    {
+      "name": "中原大學",
+      "logo": "/uploads/sponsors/中原大學.png",
+      "url": "https://www.cycu.edu.tw/"
+    },
+    {
+      "name": "中原建築",
+      "logo": "/uploads/sponsors/中原建築.png",
+      "url": "https://arch.cycu.edu.tw/"
+    }
+  ],
+  "categories": [
+    {
+      "id": "Urban Design",
+      "label": "Urban Design",
+      "desc": "重新定義城市景觀與公共空間的設計想像。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Housing",
+      "label": "Housing",
+      "desc": "探索當代居住型態與住宅類型的創新可能。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Landscape",
+      "label": "Landscape",
+      "desc": "思考自然生態與人造環境的共生與融合。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Tectonics",
+      "label": "Tectonics",
+      "desc": "鑽研材料特性、構築工法與結構系統的革新。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Theory",
+      "label": "Theory",
+      "desc": "建構建築哲學思辨與批判性設計論述。",
+      "image": "/mock/project_land.png"
+    }
+  ],
+  "events": [
+    {
+      "title": "⊹ 𝐕𝐄𝐑𝐒𝐄 系列演講 ⊹",
+      "date": "2025/11/27",
+      "time": "19:00 - 22:00",
+      "location": "建築系館 雅砌",
+      "description": "⊹ 𝐕𝐄𝐑𝐒𝐄 𝐧次方系列演講 ⊹\n𝐧=𝟏｜解構畢設\n\n✦✦✧\n\nPart.1\nOrganic City 的設計邏輯與你的設計養成\n主講者/余達\n\nPart.2\n談設計——如何討論設計\n與談者/余達、董崑華\n\n✦✧\n\n畢業設計對畢業生而言，是與過去四年設計經驗不同，嶄新的討論維度。\n我們邀請兩位老師，分享與談論畢業設計新思維，和同學一起進行一場課程之外，設計之內的思考運動。\n\n✦\n時間：11/27（四）18:30 入場用餐\n19:00活動開始\n地點：建築系館 雅砌\n\n* 會準備免費的披薩飲料等餐點，邀請大家一起來吃晚茶思考設計！",
+      "image": "/uploads/events/02/00.jpg",
+      "highlights": [
+        "/uploads/events/02/01.jpg",
+        "/uploads/events/02/02.jpg",
+        "/uploads/events/02/03.jpg",
+        "/uploads/events/02/04.jpg"
+      ]
+    },
+    {
+      "title": "評圖",
+      "date": "2026/06/05",
+      "time": "14:00 - 16:00",
+      "location": "",
+      "description": "待編輯",
+      "image": "/uploads/events/01/00.jpg",
+      "highlights": [
+        "/uploads/events/01/01.jpg",
+        "/uploads/events/01/02.jpg",
+        "/uploads/events/01/03.jpg",
+        "/uploads/events/01/04.jpg"
+      ]
+    },
+    {
+      "title": "New Event",
+      "date": "",
+      "time": "",
+      "location": "",
+      "description": "",
+      "image": ""
+    }
+  ],
+  "shop": {
+    "title": "商品展示",
+    "subtitle": "VERSE US Official Goods"
+  },
+  "products": [
+    {
+      "id": "2",
+      "title": "小燈箱",
+      "price": "NT$ 200",
+      "description": "中原建築小燈箱\n限量50個，售完為止",
+      "image": "/uploads/shop/02/00.jpg",
+      "images": [
+        "/uploads/shop/02/01.jpg",
+        "/uploads/shop/02/02.jpg",
+        "/uploads/shop/02/03.jpg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "2026 畢業專刊",
+      "price": "NT$ 800",
+      "description": "完整收錄第62屆所有畢業設計作品，包含設計理念、圖面與模型照片。\n規格：A4 變形 / 300頁 / 全彩印刷",
+      "image": "/uploads/shop/01/00.jpg",
+      "images": [
+        "/uploads/shop/01/01.jpg",
+        "/uploads/shop/01/02.jpg",
+        "/uploads/shop/01/03.jpg"
+      ]
+    }
+  ],
+  "global": {
+    "profileRatio": "2/3",
+    "favicon": "/uploads/site/icon.png"
+  }
+}
